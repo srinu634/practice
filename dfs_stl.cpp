@@ -4,6 +4,7 @@
 #include<cmath>
 #include<map>
 #include<set>
+<samplemerge issue change>
 #define BLACK 0
 #define WHITE 1
 #define GRAY 2
