@@ -8,6 +8,8 @@
 #define WHITE 1
 #define GRAY 2
 /*
+
+
 WHITE - Unvisited
 Gray - Visited and in the dfs run
 BLACK - Completed dfs from this point
